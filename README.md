@@ -18,9 +18,6 @@ ppp
 qqq
 Creating a new branch is quick
 branch commit for second time
-<<<<<<< HEAD
 master's modifcation
-=======
 dev3's modification
->>>>>>> dev3
 qwerq
