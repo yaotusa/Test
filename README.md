@@ -16,6 +16,3 @@ nnn
 ooo
 ppp
 qqq
-rrr
-sss
-ttt
