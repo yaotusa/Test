@@ -23,6 +23,7 @@ dev3's modification
 qwerq
 1qaz2wsx
 dev5's modification
+d
 q
 w
 e
